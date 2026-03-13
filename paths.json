@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/cvv-xwalk/:/"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/cvv-xwalk/"
   ]
 }
