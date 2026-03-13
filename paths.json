@@ -1,6 +1,7 @@
 {
   "mappings": [
-    "/content/cvv-xwalk/:/"
+    "/content/cvv-xwalk/:/",
+    "/content/cvv-xwalk/metadata:/metadata.json"
   ],
   "includes": [
     "/content/cvv-xwalk/"
